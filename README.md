@@ -1,6 +1,6 @@
 # 🌲 LumberJoc 🪓
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sedan&pause=1000&color=2C9147&center=true&vCenter=true&random=false&width=435&lines=DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=435&lines=DevOps+Engineer+%26+Code+Connoisseur)](https://git.io/typing-svg)
 
 <!--
 **lumberjoc/lumberjoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
